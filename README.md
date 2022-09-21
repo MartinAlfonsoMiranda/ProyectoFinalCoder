@@ -2,7 +2,7 @@
 
 para poder ingresar hay q poner /AppCoder para poder iniciar
 
-clikiar con click izquierdo el boton de registrar (no otra cosa, si es que te quieres registrar)
+clikiar con click izquierdo el boton de registrar, si ya tenes cuenta toca login
 
 despues de registarte(o dar inicio de sesion) podras ingresar al inicio
 
