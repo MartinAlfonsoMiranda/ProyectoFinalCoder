@@ -17,4 +17,4 @@ hay apartado llamado "Mascota", "Dueño/a", "Veterinario", "Busqueda"
 "Busqueda": puede encontrar cualquier mascota que esten registradas o añadidas en el apartado "Mascota"
 
 link del video
-https://drive.google.com/file/d/19eS9ubuL4jo225Ij_85MzBsaybyWX1y4/view?usp=sharing
+https://drive.google.com/drive/folders/1ygyGu9_mVB9T1IT6XMY3hL-8I4n1OY1L?usp=sharing
